@@ -65,14 +65,14 @@ I'm a software engineer and founder building from Accra — products that solve 
       <br/><br/>
       <b>Exam Portal — Secure Examination Platform</b><br/>
       <sub>A secure, scalable exam platform for academic institutions. Handles paper distribution, timed submissions, and result management end to end.</sub><br/><br/>
-      🔗 <a href="https://raw.githubusercontent.com/GruffGiant19/GruffGiant19/main/assets/exam-portal-preview.png">Case Study</a>
+      🔗 <a href="https://derrick-arhin-bannerman.vercel.app/work/exam-portal">Case Study</a>
       <br/><br/>
       <sub>Next.js · TypeScript · Supabase · PostgreSQL</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://taxbot-ghana.vercel.app/">
         <img
-          src="./assets/taxbot-preview.png"
+          src="assets/TaxBot-Ghana.png"
           alt="Taxbot Ghana"
           style="width:100%; height:160px; object-fit:cover; border-radius:6px;"/>
       </a>
