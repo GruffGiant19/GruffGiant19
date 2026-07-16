@@ -99,7 +99,7 @@
 
 ---
 
-## 🌱 Projects
+##  Projects
 
 ### Shamba — AI Farm Activity Tracker
 > AI-powered farm activity tracker built for smallholder farmers across sub-Saharan Africa. Offline-first architecture, AI insights, and PDF record generation for financial institutions.
