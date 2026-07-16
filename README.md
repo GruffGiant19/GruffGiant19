@@ -44,7 +44,7 @@ I'm a software engineer and founder building from Accra — products that solve 
     <td align="center" width="33%">
       <a href="https://github.com/placeholder/shamba">
         <img
-          src="https://derrick-arhin-bannerman.vercel.app/work/shamba"
+          src="https://raw.githubusercontent.com/GruffGiant19/GruffGiant19/main/assets/shamba-preview.png"
           alt="Shamba AI Farm Tracker"
           style="width:100%; height:160px; object-fit:cover; border-radius:6px;"/>
       </a>
@@ -65,14 +65,14 @@ I'm a software engineer and founder building from Accra — products that solve 
       <br/><br/>
       <b>Exam Portal — Secure Examination Platform</b><br/>
       <sub>A secure, scalable exam platform for academic institutions. Handles paper distribution, timed submissions, and result management end to end.</sub><br/><br/>
-      🔗 <a href="https://derrick-arhin-bannerman.vercel.app/work/exam-portal">Case Study</a>
+      🔗 <a href="https://raw.githubusercontent.com/GruffGiant19/GruffGiant19/main/assets/exam-portal-preview.png">Case Study</a>
       <br/><br/>
       <sub>Next.js · TypeScript · Supabase · PostgreSQL</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://taxbot-ghana.vercel.app/">
         <img
-          src="https://placehold.co/600x200/C49A2A/1A2E1A?text=Taxbot+Ghana"
+          src="https://raw.githubusercontent.com/GruffGiant19/GruffGiant19/main/assets/taxbot-preview.png"
           alt="Taxbot Ghana"
           style="width:100%; height:160px; object-fit:cover; border-radius:6px;"/>
       </a>
