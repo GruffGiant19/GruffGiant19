@@ -51,7 +51,7 @@ I'm a software engineer and founder building from Accra — products that solve 
       <br/><br/>
       <b>Shamba — AI Farm Activity Tracker</b><br/>
       <sub>AI-powered farm activity tracker for smallholder farmers across sub-Saharan Africa. AI insights, activity logging, and PDF record generation for financial institutions.</sub><br/><br/>
-      🔗 <a href="https://github.com/placeholder/shamba">Repo</a> &nbsp;·&nbsp; <a href="https://derrick-arhin-bannerman.vercel.app/work/shamba">Case Study</a>
+      🔗 <a href="https://derrick-arhin-bannerman.vercel.app/work/shamba">Case Study</a>
       <br/><br/>
       <sub>React Native · Python · FastAPI · OpenAI API · Firebase</sub>
     </td>
