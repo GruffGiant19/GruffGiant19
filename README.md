@@ -44,7 +44,7 @@ I'm a software engineer and founder building from Accra — products that solve 
     <td align="center" width="33%">
       <a href="https://github.com/placeholder/shamba">
         <img
-          src="https://raw.githubusercontent.com/GruffGiant19/GruffGiant19/main/assets/shamba-preview.png"
+          src="assets/shamba-preview.png"
           alt="Shamba AI Farm Tracker"
           style="width:100%; height:160px; object-fit:cover; border-radius:6px;"/>
       </a>
@@ -58,7 +58,7 @@ I'm a software engineer and founder building from Accra — products that solve 
     <td align="center" width="33%">
       <a href="https://github.com/placeholder/exam-portal">
         <img
-          src="https://raw.githubusercontent.com/GruffGiant19/GruffGiant19/main/assets/shamba-preview.png)"
+          src="assets/exam-portal-preview.png"
           alt="Exam Portal"
           style="width:100%; height:160px; object-fit:cover; border-radius:6px;"/>
       </a>
@@ -72,7 +72,7 @@ I'm a software engineer and founder building from Accra — products that solve 
     <td align="center" width="33%">
       <a href="https://taxbot-ghana.vercel.app/">
         <img
-          src="https://raw.githubusercontent.com/GruffGiant19/GruffGiant19/main/assets/taxbot-preview.png"
+          src="assets/taxbot-preview.png"
           alt="Taxbot Ghana"
           style="width:100%; height:160px; object-fit:cover; border-radius:6px;"/>
       </a>
@@ -88,4 +88,4 @@ I'm a software engineer and founder building from Accra — products that solve 
 
 ---
 
-*The problem comes before the code. Always.*
+_The problem comes before the code. Always._
