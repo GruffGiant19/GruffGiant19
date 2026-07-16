@@ -41,7 +41,7 @@ I'm a software engineer and founder building from Accra — products that solve 
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="30%">
       <a href="https://github.com/placeholder/shamba">
         <img
           src="https://placehold.co/600x200/1A2E1A/C49A2A?text=Shamba+AI"
