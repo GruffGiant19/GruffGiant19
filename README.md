@@ -58,7 +58,7 @@ I'm a software engineer and founder building from Accra — products that solve 
     <td align="center" width="33%">
       <a href="https://github.com/placeholder/exam-portal">
         <img
-          src="https://placehold.co/600x200/2D6A4F/F2EDE4?text=Exam+Portal"
+          src="https://raw.githubusercontent.com/GruffGiant19/GruffGiant19/main/assets/shamba-preview.png)"
           alt="Exam Portal"
           style="width:100%; height:160px; object-fit:cover; border-radius:6px;"/>
       </a>
