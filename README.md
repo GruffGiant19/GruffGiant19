@@ -1,4 +1,4 @@
-# Derrick Arhin-Bannerman
+# 🧬 Derrick Arhin-Bannerman
 
 **`Software Engineer & Systems Thinker`**
 
@@ -29,7 +29,7 @@ I'm a software engineer and founder building from Accra — products that solve 
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,reactnative,python,fastapi,nodejs,firebase,supabase,postgresql,huggingface,figma,git&theme=light)](https://skillicons.dev)
 
@@ -37,7 +37,7 @@ I'm a software engineer and founder building from Accra — products that solve 
 
 ---
 
-## 🔨🔧 Projects
+## 🏺 Projects
 
 <table>
   <tr>
