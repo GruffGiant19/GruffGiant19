@@ -25,7 +25,6 @@ I'm a software engineer and founder building from Accra — products that solve 
 
 - I design and build solutions that bridge the gap between a user and their end goal.
 - Currently building **Shamba** — an AI-powered farm activity tracker for smallholder farmers across sub-Saharan Africa.
-- Turning complex systems into tools that actually work for the people using them.
 - Technology Consultant at **Sarks Industries**, advising on digital infrastructure and AI adoption across a network of farms and export operations.
 
 ---
@@ -33,8 +32,6 @@ I'm a software engineer and founder building from Accra — products that solve 
 ## 🛠️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,reactnative,python,fastapi,nodejs,firebase,supabase,postgresql,huggingface,figma,git&theme=light)](https://skillicons.dev)
-
-**Currently learning →** &nbsp;[![Supabase](https://skillicons.dev/icons?i=supabase&theme=light)](https://skillicons.dev)
 
 **Extended stack:** OpenAI API · Multi-agent AI systems · AI bot development · Pencil (design) · Prompt Engineering · Vercel · Expo
 
