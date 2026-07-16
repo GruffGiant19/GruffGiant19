@@ -33,7 +33,7 @@ I'm a software engineer and founder building from Accra — products that solve 
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,reactnative,python,fastapi,nodejs,firebase,supabase,postgresql,huggingface,figma,git&theme=light)](https://skillicons.dev)
 
-**Extended stack:** OpenAI API · Multi-agent AI systems · AI bot development · Pencil (design) · Prompt Engineering · Vercel · Expo
+**Extended stack:** OpenAI API · RAG pipelines · Multi-agent AI systems · AI bot development · Pencil (design) · Prompt Engineering · Vercel · Expo
 
 ---
 
@@ -41,51 +41,47 @@ I'm a software engineer and founder building from Accra — products that solve 
 
 <table>
   <tr>
-    <td align="center" width="30%">
+    <td align="center" width="33%">
       <a href="https://github.com/placeholder/shamba">
         <img
           src="https://placehold.co/600x200/1A2E1A/C49A2A?text=Shamba+AI"
           alt="Shamba AI Farm Tracker"
-          style="width:100%; height:180px; object-fit:cover; border-radius:6px;"/>
+          style="width:100%; height:160px; object-fit:cover; border-radius:6px;"/>
       </a>
       <br/><br/>
       <b>Shamba — AI Farm Activity Tracker</b><br/>
-      <sub>AI-powered farm activity tracker built for smallholder farmers across sub-Saharan Africa. AI insights, activity logging, and PDF record generation for financial institutions.</sub><br/><br/>
+      <sub>AI-powered farm activity tracker for smallholder farmers across sub-Saharan Africa. AI insights, activity logging, and PDF record generation for financial institutions.</sub><br/><br/>
       🔗 <a href="https://github.com/placeholder/shamba">Repo</a> &nbsp;·&nbsp; <a href="https://placeholder.com/work/shamba">Case Study</a>
       <br/><br/>
       <sub>React Native · Python · FastAPI · OpenAI API · Firebase</sub>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://github.com/placeholder/exam-portal">
         <img
           src="https://placehold.co/600x200/2D6A4F/F2EDE4?text=Exam+Portal"
           alt="Exam Portal"
-          style="width:100%; height:180px; object-fit:cover; border-radius:6px;"/>
+          style="width:100%; height:160px; object-fit:cover; border-radius:6px;"/>
       </a>
       <br/><br/>
       <b>Exam Portal — Secure Examination Platform</b><br/>
-      <sub>A secure, scalable exam platform built for academic institutions. Handles paper distribution, timed submissions, and result management end to end.</sub><br/><br/>
+      <sub>A secure, scalable exam platform for academic institutions. Handles paper distribution, timed submissions, and result management end to end.</sub><br/><br/>
       🔗 <a href="https://github.com/placeholder/exam-portal">Repo</a> &nbsp;·&nbsp; <a href="https://placeholder.com">Live Site</a>
       <br/><br/>
       <sub>Next.js · TypeScript · Supabase · PostgreSQL</sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/placeholder/freelance">
+    <td align="center" width="33%">
+      <a href="https://taxbot-ghana.vercel.app/">
         <img
-          src="https://placehold.co/600x200/C49A2A/1A2E1A?text=Freelance+Work"
-          alt="Freelance Engineering"
-          style="width:100%; height:180px; object-fit:cover; border-radius:6px;"/>
+          src="https://placehold.co/600x200/C49A2A/1A2E1A?text=Taxbot+Ghana"
+          alt="Taxbot Ghana"
+          style="width:100%; height:160px; object-fit:cover; border-radius:6px;"/>
       </a>
       <br/><br/>
-      <b>Freelance Engineering</b><br/>
-      <sub>End-to-end delivery for clients — landing pages, e-commerce stores, and custom builds. Scoping, implementation, testing, and deployment.</sub><br/><br/>
-      🔗 <a href="https://github.com/placeholder/freelance">Repo</a>
+      <b>Taxbot Ghana — Tax Regulation Assistant</b><br/>
+      <sub>RAG-powered chatbot helping Ghanaian MSMEs navigate tax regulation and access tax information. Built on a custom knowledge base.</sub><br/><br/>
+      🔗 <a href="https://github.com/GruffGiant19/Taxbot-Ghana-with-RAG">Repo</a> &nbsp;·&nbsp; <a href="https://taxbot-ghana.vercel.app/">Live Site</a>
       <br/><br/>
-      <sub>Next.js · React · Tailwind CSS · Node.js</sub>
-    </td>
-    <td align="center" width="50%">
+      <sub>OpenAI API · RAG · Python · Vercel</sub>
     </td>
   </tr>
 </table>
