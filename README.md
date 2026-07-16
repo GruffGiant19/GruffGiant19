@@ -44,14 +44,14 @@ I'm a software engineer and founder building from Accra — products that solve 
     <td align="center" width="33%">
       <a href="https://github.com/placeholder/shamba">
         <img
-          src="https://placehold.co/600x200/1A2E1A/C49A2A?text=Shamba+AI"
+          src="https://derrick-arhin-bannerman.vercel.app/work/shamba"
           alt="Shamba AI Farm Tracker"
           style="width:100%; height:160px; object-fit:cover; border-radius:6px;"/>
       </a>
       <br/><br/>
       <b>Shamba — AI Farm Activity Tracker</b><br/>
       <sub>AI-powered farm activity tracker for smallholder farmers across sub-Saharan Africa. AI insights, activity logging, and PDF record generation for financial institutions.</sub><br/><br/>
-      🔗 <a href="https://github.com/placeholder/shamba">Repo</a> &nbsp;·&nbsp; <a href="https://placeholder.com/work/shamba">Case Study</a>
+      🔗 <a href="https://github.com/placeholder/shamba">Repo</a> &nbsp;·&nbsp; <a href="https://derrick-arhin-bannerman.vercel.app/work/shamba">Case Study</a>
       <br/><br/>
       <sub>React Native · Python · FastAPI · OpenAI API · Firebase</sub>
     </td>
