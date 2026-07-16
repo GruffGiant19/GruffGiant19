@@ -65,7 +65,7 @@ I'm a software engineer and founder building from Accra — products that solve 
       <br/><br/>
       <b>Exam Portal — Secure Examination Platform</b><br/>
       <sub>A secure, scalable exam platform for academic institutions. Handles paper distribution, timed submissions, and result management end to end.</sub><br/><br/>
-      🔗 <a href="https://github.com/placeholder/exam-portal">Repo</a> &nbsp;·&nbsp; <a href="https://placeholder.com">Live Site</a>
+      🔗 <a href="https://derrick-arhin-bannerman.vercel.app/work/exam-portal">Case Study</a>
       <br/><br/>
       <sub>Next.js · TypeScript · Supabase · PostgreSQL</sub>
     </td>
