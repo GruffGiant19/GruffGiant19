@@ -6,59 +6,19 @@ I'm a software engineer and founder building from Accra — products that solve 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/derrick-arhin-bannerman">
-    <img alt="LinkedIn" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Connect-1E2330?style=for-the-badge&logo=linkedin&logoColor=2563EB&labelColor=141820"/>
+    <img alt="LinkedIn" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Connect-2D6A4F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A2E1A"/>
   </a>
   <a href="mailto:derrickarhinbannerman@gmail.com">
-    <img alt="Email" title="Send me an email" src="https://custom-icon-badges.demolab.com/badge/-Email-2563EB?style=for-the-badge&logo=mail&logoColor=white&labelColor=1A4BC4"/>
+    <img alt="Email" title="Send me an email" src="https://custom-icon-badges.demolab.com/badge/-Email-C49A2A?style=for-the-badge&logo=mail&logoColor=white&labelColor=A07820"/>
   </a>
   <a href="https://placeholder.com">
-    <img alt="Portfolio" title="Visit my portfolio" src="https://custom-icon-badges.demolab.com/badge/-Portfolio-1E2330?style=for-the-badge&logo=browser&logoColor=F0EDE6&labelColor=141820"/>
+    <img alt="Portfolio" title="Visit my portfolio" src="https://custom-icon-badges.demolab.com/badge/-Portfolio-1A2E1A?style=for-the-badge&logo=browser&logoColor=white&labelColor=0D1A0D"/>
   </a>
 </p>
 
 ---
 
-### 🧰 Tech Stack
-
-![React](https://img.shields.io/badge/React-1E2330?style=for-the-badge&logo=react&logoColor=2563EB)
-![Next.js](https://img.shields.io/badge/Next.js-1E2330?style=for-the-badge&logo=next.js&logoColor=F0EDE6)
-![TypeScript](https://img.shields.io/badge/TypeScript-1E2330?style=for-the-badge&logo=typescript&logoColor=2563EB)
-![React Native](https://img.shields.io/badge/React_Native-1E2330?style=for-the-badge&logo=react&logoColor=2563EB)
-![Python](https://img.shields.io/badge/Python-1E2330?style=for-the-badge&logo=python&logoColor=F0EDE6)
-![FastAPI](https://img.shields.io/badge/FastAPI-1E2330?style=for-the-badge&logo=fastapi&logoColor=2563EB)
-![Node.js](https://img.shields.io/badge/Node.js-1E2330?style=for-the-badge&logo=node.js&logoColor=F0EDE6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1E2330?style=for-the-badge&logo=tailwind-css&logoColor=2563EB)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-1E2330?style=for-the-badge&logo=openai&logoColor=F0EDE6)
-![Firebase](https://img.shields.io/badge/Firebase-1E2330?style=for-the-badge&logo=firebase&logoColor=2563EB)
-![Supabase](https://img.shields.io/badge/Supabase-1E2330?style=for-the-badge&logo=supabase&logoColor=2563EB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E2330?style=for-the-badge&logo=postgresql&logoColor=F0EDE6)
-
-**Currently learning →**
-![Supabase](https://img.shields.io/badge/Supabase_(advanced)-2563EB?style=for-the-badge&logo=supabase&logoColor=F0EDE6)
-
----
-
-### 🌱 Projects
-
-**[Shamba — AI Farm Activity Tracker](https://github.com/placeholder/shamba)**
-AI-powered farm activity tracker built for smallholder farmers across sub-Saharan Africa. AI insights, activity logging, and PDF record generation for financial institutions.
-`React Native` `Python` `FastAPI` `OpenAI API` `Firebase`
-
-#
-
-**[Exam Portal — Secure Examination Platform](https://github.com/placeholder/exam-portal)**
-A secure, scalable exam platform built for academic institutions. Handles paper distribution, timed submissions, and result management end to end.
-`Next.js` `TypeScript` `Supabase` `PostgreSQL`
-
-#
-
-**[Freelance Engineering](https://github.com/placeholder/freelance)**
-End-to-end delivery for clients — landing pages, e-commerce stores, and custom builds.
-`Next.js` `React` `Tailwind CSS` `Node.js`
-
----
-
-### 👨‍💻 About Me
+## About Me
 
 - I design and build solutions that bridge the gap between a user and their end goal.
 - Currently building **Shamba** — an AI-powered farm activity tracker for smallholder farmers across sub-Saharan Africa.
@@ -67,19 +27,89 @@ End-to-end delivery for clients — landing pages, e-commerce stores, and custom
 
 ---
 
-<!--
-  ANIMATED GLITCH SVG — cobalt variant
-  Upload glitch-cobalt.svg to assets/ folder in this repo
-  Replace YOUR_USERNAME with your GitHub username
--->
-<div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/glitch-cobalt.svg" alt="Systems thinker. Software builder." width="600"/>
-</div>
+## 🧰 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,python,fastapi,nodejs,firebase,supabase,postgresql,figma,git&theme=light)](https://skillicons.dev)
+
+**Currently learning →** &nbsp;[![Supabase](https://skillicons.dev/icons?i=supabase&theme=light)](https://skillicons.dev)
+
+**Also comfortable with:** React Native · OpenAI API · Prompt Engineering · AI workflow design · Vercel · Expo
 
 ---
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/reeded-footer-cobalt.svg" alt="" width="100%"/>
+## 🌱 Projects
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/placeholder/shamba">
+        <img
+          src="https://placehold.co/600x200/1A2E1A/C49A2A?text=Shamba+AI"
+          alt="Shamba AI Farm Tracker"
+          style="width:100%; height:180px; object-fit:cover; border-radius:6px;"/>
+      </a>
+      <br/><br/>
+      <b>Shamba — AI Farm Activity Tracker</b><br/>
+      <sub>AI-powered farm activity tracker built for smallholder farmers across sub-Saharan Africa. AI insights, activity logging, and PDF record generation for financial institutions.</sub><br/><br/>
+      🔗 <a href="https://github.com/placeholder/shamba">Repo</a> &nbsp;·&nbsp; <a href="https://placeholder.com/work/shamba">Case Study</a>
+      <br/><br/>
+      <sub>Tags: React Native · Python · FastAPI · OpenAI API · Firebase</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/placeholder/exam-portal">
+        <img
+          src="https://placehold.co/600x200/2D6A4F/F2EDE4?text=Exam+Portal"
+          alt="Exam Portal"
+          style="width:100%; height:180px; object-fit:cover; border-radius:6px;"/>
+      </a>
+      <br/><br/>
+      <b>Exam Portal — Secure Examination Platform</b><br/>
+      <sub>A secure, scalable exam platform built for academic institutions. Handles paper distribution, timed submissions, and result management end to end.</sub><br/><br/>
+      🔗 <a href="https://github.com/placeholder/exam-portal">Repo</a> &nbsp;·&nbsp; <a href="https://placeholder.com">Live Site</a>
+      <br/><br/>
+      <sub>Tags: Next.js · TypeScript · Supabase · PostgreSQL</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/placeholder/freelance">
+        <img
+          src="https://placehold.co/600x200/C49A2A/1A2E1A?text=Freelance+Work"
+          alt="Freelance Engineering"
+          style="width:100%; height:180px; object-fit:cover; border-radius:6px;"/>
+      </a>
+      <br/><br/>
+      <b>Freelance Engineering</b><br/>
+      <sub>End-to-end delivery for clients — landing pages, e-commerce stores, and custom builds. Scoping, implementation, testing, and deployment.</sub><br/><br/>
+      🔗 <a href="https://github.com/placeholder/freelance">Repo</a>
+      <br/><br/>
+      <sub>Tags: Next.js · React · Tailwind CSS · Node.js</sub>
+    </td>
+    <td align="center" width="50%">
+      <!-- Placeholder for next project -->
+      <img
+        src="https://placehold.co/600x200/0D1A0D/C49A2A?text=Next+Project"
+        alt="Coming Soon"
+        style="width:100%; height:180px; object-fit:cover; border-radius:6px;"/>
+      <br/><br/>
+      <b>Next Project — Coming Soon</b><br/>
+      <sub>Something new is in the works. Watch this space.</sub><br/><br/>
+      <sub>&nbsp;</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📬 Connect
+
+- [**Portfolio**](https://placeholder.com)
+- [**Contact**](mailto:derrickarhinbannerman@gmail.com)
+
+<a href="https://www.linkedin.com/in/derrick-arhin-bannerman" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn"/>
+</a>
+
+---
 
 *The problem comes before the code. Always.*
-</div>
