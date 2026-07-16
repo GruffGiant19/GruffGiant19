@@ -39,9 +39,9 @@ I'm a software engineer and founder building from Accra — products that solve 
 
 ## 🏺 Projects
 
-<table>
+<table style="width:100%; border-collapse:separate; border-spacing:0; border:1px solid #ddd; border-radius:18px; overflow:hidden; background:#f8fafc;">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="background:#ffffff; padding:24px;">
       <a href="https://github.com/placeholder/shamba">
         <img
           src="assets/shamba-preview.png"
@@ -55,7 +55,7 @@ I'm a software engineer and founder building from Accra — products that solve 
       <br/><br/>
       <sub>React Native · Python · FastAPI · OpenAI API · Firebase</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="background:#ffffff; padding:24px;">
       <a href="https://github.com/placeholder/exam-portal">
         <img
           src="assets/exam-portal-preview.png"
@@ -69,7 +69,7 @@ I'm a software engineer and founder building from Accra — products that solve 
       <br/><br/>
       <sub>Next.js · TypeScript · Supabase · PostgreSQL</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="background:#ffffff; padding:24px;">
       <a href="https://taxbot-ghana.vercel.app/">
         <img
           src="assets/TaxBot-Ghana.png"
