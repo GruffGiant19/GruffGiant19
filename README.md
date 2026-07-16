@@ -72,7 +72,7 @@ I'm a software engineer and founder building from Accra — products that solve 
     <td align="center" width="33%">
       <a href="https://taxbot-ghana.vercel.app/">
         <img
-          src="assets/taxbot-preview.png"
+          src="./assets/taxbot-preview.png"
           alt="Taxbot Ghana"
           style="width:100%; height:160px; object-fit:cover; border-radius:6px;"/>
       </a>
